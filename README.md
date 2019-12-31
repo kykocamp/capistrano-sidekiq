@@ -8,7 +8,7 @@ Sidekiq integration for Capistrano
 
 Add this line to your application's Gemfile:
 
-    gem 'capistrano-sidekiq', github: 'seuros/capistrano-sidekiq'
+    gem 'capistrano-sidekiq', github: 'kykocamp/capistrano-sidekiq'
 
 or:
 
